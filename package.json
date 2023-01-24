@@ -2,7 +2,8 @@
 	"name": "cristian624",
 	"author": "cristian624",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"author": "cristian624"
 	},
 	"main": "server.js",
 	"scripts": {
